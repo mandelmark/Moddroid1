@@ -1,1 +1,16 @@
-com.HubLawtanApp1.ModdroidappgameHelper
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"ec11a1ca7060de1d",
+            "inter":"0b9a64830df2bc3a",
+            "nativ":"c1cf8a2768b96daf",
+            "reword":"bade2f49e48731b5"}
+            }
